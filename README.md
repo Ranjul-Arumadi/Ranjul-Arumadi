@@ -1,6 +1,6 @@
 ### Hi there I am Ranjul Arumadi👋
 
-
+- 🎓 I'm a student pursuing Btech in Computer Science Engineering.
 - 🌱 I’m currently learning Web Development.
 
 - 📫 How to reach me: https://www.linkedin.com/in/ranjul-arumadi/

@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I am Ranjul Arumadi👋
+
+
+- 🌱 I’m currently learning Web Development.
+
+- 📫 How to reach me: https://www.linkedin.com/in/ranjul-arumadi/
 
 <!--
 **Ranjul-Arumadi/Ranjul-Arumadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
